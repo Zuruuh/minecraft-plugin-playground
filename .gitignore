@@ -1,0 +1,6 @@
+/spigot/*
+!/spigot/BuildTools.jar
+/server/*
+!/server/.gitkeep
+/build
+/.gradle/
